@@ -6,15 +6,16 @@ public class Task2 {
         Vector<String> carModels = new Vector<>();
 
     
-        carModels.add("Toyota Camry");
-        carModels.add("Honda Civic");
-        carModels.add("Ford Mustang");
+        carModels.add("Toyota Fortuner");
+        carModels.add("Honda City");
+        carModels.add("Mini Cooper");
         System.out.println("Car Models:");
         for (String model : carModels) {
             System.out.println(model);
         }
     }
 }
+
 
 
 
