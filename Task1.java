@@ -5,13 +5,14 @@ public class Task1 {
         ArrayList<String> students = new ArrayList<>();
         students.add("Harish");
         students.add("Raj");
-        students.add("abhi");
-        students.add("sangram");
-        students.add("pranav");
+        students.add("yash");
+        students.add("ram");
+        students.add("vaibhav");
 
         System.out.println("Student Names: " + students);
     }
 }
+
 
 
 
