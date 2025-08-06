@@ -3,8 +3,8 @@ import java.util.ArrayList;
 public class Task1 {
     public static void main(String[] args) {
         ArrayList<String> students = new ArrayList<>();
-        students.add("yash");
-        students.add("jay");
+        students.add("Harish");
+        students.add("Raj");
         students.add("abhi");
         students.add("sangram");
         students.add("pranav");
@@ -12,5 +12,6 @@ public class Task1 {
         System.out.println("Student Names: " + students);
     }
 }
+
 
 
