@@ -6,10 +6,10 @@ public class Task8 {
         LinkedList<String> colors = new LinkedList<>();
 
         
-        colors.add("Red");
         colors.add("Blue");
-        colors.add("Green");
-        colors.add("Yellow");
+        colors.add("White");
+        colors.add("Purple");
+        colors.add("Grey");
 
         
         colors.addLast("Purple");
@@ -21,4 +21,5 @@ public class Task8 {
         }
     }
 }
+
 
