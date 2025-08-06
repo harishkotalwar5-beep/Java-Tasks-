@@ -6,9 +6,9 @@ public class Task10 {
 
         // Add some mobile brands
         mobileBrands.add("Samsung");
+        mobileBrands.add("Moto");
         mobileBrands.add("Apple");
-        mobileBrands.add("OnePlus");
-        mobileBrands.add("Xiaomi");
+        mobileBrands.add("One Plus");
 
         int middleIndex = mobileBrands.size() / 2;
 
@@ -20,3 +20,4 @@ public class Task10 {
         }
     }
 }
+
